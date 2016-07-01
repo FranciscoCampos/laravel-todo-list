@@ -17,7 +17,7 @@
 				  <h1 class="center-align white-text text-darken-2">TO-DO LIST </h1>
         		
         		
-        		  <h6 class="center-align white-text text-darken-2">© 2014 Copyright FRANCISCO CAMPOS</h6>
+        		  <h6 class="center-align white-text text-darken-2">© 2016 Copyright FRANCISCO CAMPOS</h6>
         		  <br>
 				<center><a href="{{ url('/list')}}"class=" waves-effect waves-light btn-large">Enter</a></center>	
         	</div>
